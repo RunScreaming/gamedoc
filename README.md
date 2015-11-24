@@ -34,25 +34,25 @@ The player on the screen, controlling the actual (only human-controlled) actor i
 
 ### Enemies
 
-Various non-human-controled moving and stationary actory in *the World*. Creating thrill and endangering the *Player 1*. Design depends on the actual dramaturgy.
+Various non-human-controlled moving and stationary actors in *the World*. Creating thrill and endangering the *Player 1*. Design depends on the actual dramaturgy.
 
 ### The Other Players
 
-1, 2 or more people sitting in the same room with *Player 1*. The don’t control any actor in the level. In posession of *The Map* they help *Player 1* to navigate through *the World*. To do so, they first have to pin down the *Player 1*’s initial location in *the World* by comparing the surrounding with striking landmarks on *the Map*. After doing so, they have to help *Player 1* to bypass as much *enemies* as possible.
+1, 2 or more people sitting in the same room with *Player 1*. They don’t control any actor in the level. In possession of *The Map* they help *Player 1* to navigate through *the World*. To do so, they first have to pin down the *Player 1*’s initial location in *the World* by comparing the surrounding with striking landmarks on *the Map*. After doing so, they have to help *Player 1* to bypass as much *enemies* as possible.
 
 ### The Map
 
-The Map (or maps) is a simple 2d blueprint of *The World* printed on paper. The map is created by game-designers at the same time as *The World*. It gives *The Other Players* additional information about *The World* not known to *Player 1* (yet). Mainly an overview of *The World*, the location of *The Safe Exit*, and all instances of *Enemies*. It does not tell *The Other Players* the initial or current location of *Player 1* in *the World*, though. This information is split over miltiple versions of *The Map*. Thus, since multiple *other Player*s hold different coppies of *The Map*, none of them knows everyting. The more *other Player*s join the game, the easier it gets to keep track of the world arround *Player 1*.
+The Map (or maps) is a simple 2d blueprint of *The World* printed on paper. The map is created by game-designers at the same time as *The World*. It gives *The Other Players* additional information about *The World* not known to *Player 1* (yet). Mainly an overview of *The World*, the location of *The Safe Exit*, and all instances of *Enemies*. It does not tell *The Other Players* the initial or current location of *Player 1* in *the World*, though. This information is split over multiple versions of *The Map*. Thus, since multiple *other Player*s hold different copies of *The Map*, none of them knows everything. The more *other Player*s join the game, the easier it gets to keep track of the world around *Player 1*.
 
 ### The Safe Exit
 
-The primary game objective is to help *Player 1* to reach the safe exit alive/without loosing ice cream/without screaming/with clean clothes/ ...
+The primary game objective is to help *Player 1* to reach the safe exit alive/without losing ice cream/without screaming/with clean clothes/ ...
 
 Objects, Actors, Objectives, …
 
 ## Look and Feel
 
-The actual dramaturgy is still open. since the detailed look & feel depends on the dramaturgy, this is sill TODO.
+The actual dramaturgy is still open. since the detailed look & feel depends on the dramaturgy, this is still TODO.
 
 ### Player 1:
 
@@ -62,7 +62,7 @@ Option B: Played in an 3d world in first-person perspective.
 
 ### Other players:
 
-The other players don’t need a computer. They sit in the same room as player 1, but instead of a computer they are euqipped with sheets of paper. On each sheet of paper ...
+The other players don’t need a computer. They sit in the same room as player 1, but instead of a computer they are equipped with sheets of paper. On each sheet of paper ...
 
 Setting, Atmosphere, (Story?), World, Landscape, Ground Type, ...
 
