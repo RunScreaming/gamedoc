@@ -56,9 +56,9 @@ The actual dramaturgy is still open. since the detailed look & feel depends on t
 
 ### Player 1:
 
-Option A: Played in Isometric Worlds in third-person perspective.
+Option A (unlikely): Played in Isometric Worlds in third-person perspective.
 
-Option B: Played in an 3d world in first-person perspective.
+Option B (likely): Played in an 3d world in first-person perspective.
 
 ### Other players:
 
@@ -100,33 +100,119 @@ See:
   </tr>
   <tr>
     <td>Anja Karl</td>
-    <td></td>
-    <td></td>
+    <td>Head of Unity</td>
+    <td>unity on Windows</td>
   </tr>
   <tr>
     <td>Roland Urbano</td>
-    <td></td>
-    <td></td>
+    <td>Best Boy</td>
+    <td>unity on Windows</td>
   </tr>
   <tr>
     <td>Peter Grassberger</td>
-    <td></td>
-    <td></td>
+    <td>Senior aMaze Master</td>
+    <td>unity on Linux</td>
   </tr>
   <tr>
     <td>Stefan More</td>
-    <td></td>
-    <td></td>
+    <td>"Researcher", Story</td>
+    <td>unity on Linux</td>
   </tr>
   <tr>
     <td>Lukas Neugebauer</td>
     <td>3d art</td>
-    <td>probably blender</td>
+    <td>Blender Ninja</td>
   </tr>
 </table>
 
 
-## Milestones
+## Appendix 1: Story Ideas
+
+<table>
+  <tr>
+    <td>Codename</td>
+    <td>Run-Motivation</td>
+    <td>Enemies</td>
+  </tr>
+  <tr>
+    <td>"The obvious one"</td>
+    <td>Zombies, Bio-Foo</td>
+    <td>Zombies, Traps</td>
+  </tr>
+  <tr>
+    <td>Uni-Life, #1: Party Life</td>
+    <td>Warm beer, phone battery, late for Party, ...</td>
+    <td>Alcohol, loud music, … ?</td>
+  </tr>
+  <tr>
+    <td>Uni-Life, #2: Academia</td>
+    <td>Some Deadline (Paper, Project, ..)</td>
+    <td>“Distractions”: Friends, Professors, other Deadlines, Parties, Sickness, more exciting lectures, ...</td>
+  </tr>
+  <tr>
+    <td>Moon Base</td>
+    <td>Running out of oxygen</td>
+    <td>Dying environment, something your base found?</td>
+  </tr>
+  <tr>
+    <td>Underwater Base</td>
+    <td>Running out of oxygen</td>
+    <td>Dying environment, scary underwater-animals, something your base found</td>
+  </tr>
+  <tr>
+    <td>Underground Research base (see: Half-Life)</td>
+    <td>Experiment gone wrong</td>
+    <td>Headcraps! Dangerous environment! Mutants! Confused scientists!</td>
+  </tr>
+  <tr>
+    <td>Medieval castle</td>
+    <td>Your prince is getting married!</td>
+    <td>Crocodiles, Swamp, Drawbridge, ...</td>
+  </tr>
+  <tr>
+    <td>Keep running or everybody explodes</td>
+    <td>Run, or everybody explodes!?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Open world motor-biking</td>
+    <td>Win the race against the clock</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Dream</td>
+    <td>Dont wake up</td>
+    <td>something to wake you up</td>
+  </tr>
+  <tr>
+    <td>Vulcano (Indiana Jones)</td>
+    <td>Lava</td>
+    <td>Traps, Arrows, Villains, ..</td>
+  </tr>
+  <tr>
+    <td>Postman</td>
+    <td>Deliver all the post</td>
+    <td>Other Post-Persons? ...</td>
+  </tr>
+  <tr>
+    <td>Library</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>your favorite PC game</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+## Appendix 2: Milestones
 
 ### Milestone 0: 2015-11-04
 
