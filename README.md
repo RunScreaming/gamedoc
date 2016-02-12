@@ -6,7 +6,7 @@ Game Design Document
 
 ## High-Speed-Elevator Pitch
 
-A player is chased through a maze full of thrill & danger. It’s a mess. Chaos everywhere. The location of safety is unclear. Fast running and not getting lost at the same time is impossible. In order to escape, help is needed! Luckily, other players are at hand via radio to guide.
+Help! Your party is running out of cold beer! And your friends agree: *You are the chosen one, chosen to save the night.* But now you are on the other side of the city, with the desired crate of beer, but lost in chaos and disorientation. To run fast and not get lost at the same time is impossible. And worst of all: the beer is getting warm! In order to reach the party on time, help is needed! Luckily, the party society is at hand via phone to guide you … back to the party … to deliver the (hopefully still cold) beer … and save the night!
 
 ## Executive Summary
 
