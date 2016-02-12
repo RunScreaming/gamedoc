@@ -1,8 +1,6 @@
 *Run Screaming*
 
-Game Design Document
-
-[[TOC]]
+# Game Design Document
 
 ## High-Speed-Elevator Pitch
 
