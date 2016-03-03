@@ -1,10 +1,12 @@
 *Run Screaming*
 
-# Game Design Document
+Game Design Document
+
+[[TOC]]
 
 ## High-Speed-Elevator Pitch
 
-Help! Your party is running out of cold beer! And your friends agree: *You are the chosen one, chosen to save the night.* But now you are on the other side of the city, with the desired crate of beer, but lost in chaos and disorientation. To run fast and not get lost at the same time is impossible. And worst of all: the beer is getting warm! In order to reach the party on time, help is needed! Luckily, the party society is at hand via phone to guide you … back to the party … to deliver the (hopefully still cold) beer … and save the night!
+Help! Your party is running out of cold beer! And your friends agree: *You are the chosen one*, *chosen to save the night*. But now you are on the other side of the city, with the desired crate of beer, but lost in chaos and disorientation. To run fast and not get lost at the same time is impossible. And worst of all: the beer is getting warm! In order to reach the party on time, help is needed! Luckily, the party society is at hand via phone to guide you … back to the party … to deliver the (hopefully still cold) beer … and save the night!
 
 ## Executive Summary
 
@@ -17,7 +19,8 @@ The main goal of the game is to pilot Player 1 through a labyrinth, which featur
 ### Diversifier
 
 *" Can I Try?: Any spectator of the game automatically becomes a player as well. “*
-... by handing out maps to all players "spectating".
+
+… by handing out maps to all players "spectating".
 
 ## Gameplay
 
@@ -59,11 +62,9 @@ Played in an 3d world in first-person perspective.
 
 The other players don’t need a computer. They sit in the same room as player 1, but instead of a computer they are equipped with sheets of paper. On each sheet of paper ...
 
-Setting, Atmosphere, (Story?), World, Landscape, Ground Type, ...
-
 ## Platform
 
-The game is developed using Unity 3d. Althought will result in support for various platforms (https://unity3d.com/unity/multiplatform), the development & testing is focused on the desktop operating systems Windows and Linux, including a WebGL version.
+The game is developed using Unity 3d. Althought will result in support for various platforms (https://unity3d.com/unity/multiplatform), the development & testing is focused on a WebGL version.
 
 ### Development System
 
@@ -91,6 +92,8 @@ Resources:
 
 * [http://spektral.at/musikarchiv](http://spektral.at/musikarchiv) 
 
+    * dubmood, kick de bucket
+
 ## Team
 
 <table>
@@ -111,17 +114,17 @@ Resources:
   </tr>
   <tr>
     <td>Peter Grassberger</td>
-    <td>Senior aMaze Master, 3d art</td>
-    <td>unity on Linux</td>
+    <td>Senior aMaze Master</td>
+    <td>unity on Linux, 2D GFX</td>
   </tr>
   <tr>
     <td>Stefan More</td>
     <td>"Researcher", Story, Docs</td>
-    <td>unity on Linux, Sound, GIT</td>
+    <td>unity on Linux, Testing, GIT</td>
   </tr>
   <tr>
     <td>Lukas Neugebauer</td>
-    <td>3d art, Unity</td>
+    <td>3d art</td>
     <td>Blender Ninja, 3D GFX</td>
   </tr>
 </table>
@@ -233,7 +236,7 @@ Game Design preview.
 
 **ARTWORKS**: -
 
-### Milestone 2: 2015-12-..
+### Milestone 2: 2015-12-30
 
 Technological preview.
 
@@ -257,7 +260,7 @@ Second prototype. Playable preview.
 
 **ARTWORKS**: Asset-list freeze. First sounds.
 
-### Milestone 4: 2016-02-15
+### Milestone 4: 2016-02-29
 
 Beta release.
 
@@ -269,7 +272,7 @@ Beta release.
 
 **ARTWORKS**: Final assets. Sound tuning.
 
-### Milestone 5: 2016-02-27
+### Milestone 5: 2016-03-02
 
 "Final" release & presentation.
 
@@ -294,5 +297,4 @@ If there is time, or if there is a version 2.0, some of the following ideas are 
 * add other diversifiers, for example via dramaturgy.
 
 * more open level / open world
-
 
